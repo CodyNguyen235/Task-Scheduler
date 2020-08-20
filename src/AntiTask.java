@@ -1,7 +1,8 @@
 
-// TODO: Auto-generated Javadoc
+
 /**
  * The Class AntiTask.
+ * An Anti-Task is an object that will cancel out one instance of a recurring task at the defined time
  */
 public class AntiTask extends Task
 {
