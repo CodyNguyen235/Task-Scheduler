@@ -7,6 +7,8 @@ import java.util.List;
 // TODO: Auto-generated Javadoc
 /**
  * The Class RecurringTask.
+ * A Recurring Task is a task that will occur at a regular interval repeatedly until the end date. It is intended to represent something that occurs regularly, such as a class or
+ * Sleeping
  */
 public class RecurringTask extends Task
 {
