@@ -1,6 +1,7 @@
 // TODO: Auto-generated Javadoc
 /**
  * The Class TransientTask.
+ * A Transient Task is a task that occurs once at a defined time.
  */
 public class TransientTask extends Task
 {
